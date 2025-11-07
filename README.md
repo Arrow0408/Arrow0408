@@ -58,7 +58,6 @@
 ---
 
 ## 🧠 Diseño y Desarrollo
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio (Básico)](https://img.shields.io/badge/Android%20Studio%20(poco)-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
