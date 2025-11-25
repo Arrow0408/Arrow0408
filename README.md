@@ -3,8 +3,6 @@
 # 💫 About Me:
 ### Estudiante ingenieria de Sistemas en el Instituto Tolimense de Formación Técnica Profesional (ITFIP) ![ITFIP](https://itfip.edu.co/wp-content/uploads/2020/03/logo-it01.jpg) | Especializado en Desarrollo de software**
 
-# 🚀 Tech Stack de KIRA
-
 ## 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
