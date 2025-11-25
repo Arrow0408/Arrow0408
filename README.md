@@ -8,42 +8,57 @@ Antes incluso de iniciar la carrera comencé a formarme de manera autodidacta, l
 
 Actualmente me enfoco en el desarrollo de soluciones **web, móviles e IoT**, combinando herramientas modernas para frontend, backend y hardware. Mi aprendizaje ha sido constante y aplicado, realizando proyectos completos que integran API, bases de datos, UI y dispositivos embebidos.
 
-### 🧩 Frontend
-Tengo experiencia desarrollando interfaces con **HTML5, CSS3, TailwindCSS y Bootstrap**.  
-Aunque uso IA como apoyo para estilos, comprendo completamente los conceptos, las reglas CSS y el funcionamiento del DOM.  
-He trabajado en varios proyectos con **React**, incluyendo consumo de APIs, estados, hooks, rutas y gráficos con **Chart.js**.  
-En **Next.js** estoy realizando mis primeras aplicaciones, aplicando SSR, páginas, layouts y APIs internas.  
-También he utilizado **Vite** como empaquetador para proyectos con React y Laravel.
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 
 ### ⚙️ Backend
-Mi backend más fuerte es **Laravel**, donde he desarrollado múltiples proyectos usando:
-- Controladores, rutas, middleware  
-- Migraciones y Seeders  
-- JWT Auth para proteger rutas  
-- Construcción de APIs REST  
-- Uso de Composer y Artisan  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23404D59.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-También tengo conocimientos básicos de **Node.js**, con algunos proyectos sencillos usando Express y endpoints simples.
 
 ### 🗄️ Bases de Datos
-Mi principal experiencia es con **MySQL**, creando consultas, joins, filtros, procedimientos, modelos y migraciones.  
-He trabajado también con **PostgreSQL** y **SQLite** en proyectos más pequeños.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔌 IoT y Hardware
-Trabajo con **Arduino y ESP32** en proyectos reales.  
-He implementado sensores (humedad del suelo, temperatura y humedad ambiental) y proyectos interactivos con botones, LEDs y buzzer.  
-También he creado sistemas IoT conectados a la web, enviando datos mediante **HTTP Requests**, manejo de errores, tokens y comunicación con APIs.  
-Tengo conocimientos básicos de **MQTT**.
 
-### 🧰 Herramientas de desarrollo
-Uso **Git y GitHub**, principalmente desde GitHub Desktop para subir commits y manejar repositorios (aunque aún exploro temas como ramas o flujos avanzados).  
-Manejo **Postman**, Composer, NPM, Apache (desde Laragon), SSL/HTTPS y entornos locales con dominios `.test`.  
-En el área móvil he trabajado con **.NET MAUI** en un CRUD sencillo, y con **React Native + Expo** para crear aplicaciones híbridas.
+### 🔌 IoT
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP%20Requests-%2300599C.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
 
-### 🚀 Sobre mí
-Soy una persona responsable, analítica y orientada al crecimiento continuo.  
-Aprendo rápido, me adapto con facilidad a nuevos retos y mantengo buenas prácticas en la medida de lo posible.  
-Tengo bases sólidas en programación gracias a la experiencia previa con **Java**, donde desarrollé más de 300 ejercicios incluyendo lógica, GUI y estructuras de datos.
+
+### 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
+### 📱 Móvil
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 Mi objetivo es seguir perfeccionando mis habilidades en desarrollo web, mobile e IoT, y construir soluciones completas que integren software y hardware.
  
